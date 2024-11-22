@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713581331205",
+    "project_id": "sieera-marketplace-69eaa",
+    "storage_bucket": "sieera-marketplace-69eaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713581331205:android:b6b04a6dd43b014378ed6c",
+        "android_client_info": {
+          "package_name": "com.example.testing_aplikasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjBYJDkxKRSk0akxWlTJyfM4ONvyWy0Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
